@@ -1,4 +1,4 @@
-from turtle import*
+from turtle import color, back, left, forward, right, exitonclick
 
 color("white")
 back(450)
